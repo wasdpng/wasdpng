@@ -1,2 +1,2 @@
 ## Hi there 👋
-<!-- Uploading "jujutsu-kaisen-season-3-naoya-zenin-naoya-choso-gif-8018191854547431062.gif"... -->
+![Image](https://github.com/user-attachments/assets/8e6bc101-b266-48cb-a682-409d4d2e6007)
