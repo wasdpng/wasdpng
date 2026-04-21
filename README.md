@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img width="614" height="852" alt="Image" src="https://github.com/user-attachments/assets/adccdefa-4486-402e-9a14-6f7912e47ec9" />
 <!--
 **wasdpng/wasdpng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
