@@ -1,6 +1,5 @@
 ## Hi there 👋
-<img width="614" height="852" alt="Image" src="https://github.com/user-attachments/assets/adccdefa-4486-402e-9a14-6f7912e47ec9" />
-<!--
+<div class="tenor-gif-embed" data-postid="8018191854547431062" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/jujutsu-kaisen-season-3-naoya-zenin-naoya-choso-gif-8018191854547431062">Jujutsu Kaisen Season 3 GIF</a>from <a href="https://tenor.com/search/jujutsu+kaisen-gifs">Jujutsu Kaisen GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 **wasdpng/wasdpng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
