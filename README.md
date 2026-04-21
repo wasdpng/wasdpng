@@ -1,2 +1,2 @@
 ## Hi there 👋
-![Image](https://github.com/user-attachments/assets/8e6bc101-b266-48cb-a682-409d4d2e6007)
+![Image](https://github.com/user-attachments/assets/7e2a6615-8d7b-40c4-aea4-2ad94d980ba7)
